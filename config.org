@@ -4,11 +4,6 @@
 #+LANGUAGE: en
 #+EXPORT_FILE_NAME: README
 
-#+BEGIN_SRC
-M-x package-install RET org-super-agenda RET
-#+END_SRC
-
-
 * Lexical Binding
  Use lexical-binding. [[https://nullprogram.com/blog/2016/12/22/][Why?]]
 
